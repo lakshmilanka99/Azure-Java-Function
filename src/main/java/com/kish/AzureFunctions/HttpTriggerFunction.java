@@ -18,7 +18,7 @@ import com.microsoft.azure.functions.annotation.HttpTrigger;
 import com.microsoft.azure.functions.annotation.QueueOutput;
 
 /**
- * Azure Functions with HTTP Trigger.
+ * Azure Functions with HTTP Trigger,..
  */
 public class HttpTriggerFunction {
     /**
